@@ -1,7 +1,4 @@
 # CSE4175_ComputerNetwork_Project
-
-Here is a detailed `README.md` for both projects in English.
-
 ---
 
 # Project: Computer Networks Assignments
